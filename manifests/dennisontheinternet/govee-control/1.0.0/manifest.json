@@ -1,0 +1,26 @@
+{
+    "name": "Govee Control",
+    "author": "DennisOnTheInternet",
+    "description": "Firebot plugin to control Govee devices like lights and power switches",
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/dennisrijsdijk/firebot-govee-control/releases/download/v1.0.0/govee-control.js",
+    "sha256": "a9819dbb372295a8cd09ca8a4f9c0fc90fe95eae344068bc5ca9f59686a82b89",
+    "releaseDate": "2026-11-15T14:05:50.898Z",
+    "type": "single-file",
+    "icon": {
+        "type": "custom",
+        "url": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcNCiAgICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciDQogICAgd2lkdGg9IjMyIg0KICAgIGhlaWdodD0iMzIiDQogICAgdmlld0JveD0iMCAwIDI2IDI1Ij4NCiAgICA8cGF0aA0KICAgICAgICBkPSJNMjE5LjkyNyw1MDUuMzQ5bC4xMjIuMDY0YTIuMTE4LDIuMTE4LDAsMCwwLDIuNjg2LS42NTYsNy42NDEsNy42NDEsMCwwLDEsMTAuOTUyLTEuNDQyLDIuMSwyLjEsMCwwLDAsMi42NDMtLjAwOGwuMTA5LS4wODlhMi4xLDIuMSwwLDAsMCwuMDIxLTMuMjQxLDExLjk3NywxMS45NzcsMCwwLDAtMTcuMjkyLDIuMzA5QTIuMDkyLDIuMDkyLDAsMCwwLDIxOS45MjcsNTA1LjM0OVoiDQogICAgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yMTUuNjM0IC00OTcuMjg5KSINCiAgICAgICAgZmlsbD0iIzAwYTBkZiIvPg0KDQogICAgPHBhdGgNCiAgICAgICAgZD0iTTIzOC44MTUsNTI0LjU1OWgtMTEuOGEyLjEyNywyLjEyNywwLDEsMCwwLDQuMjU1aDkuMzE1YTcuNjg0LDcuNjg0LDAsMCwxLTUuOTkzLDUuNGgwYy0uMi4wMzUtLjM5My4wNjEtLjU5My4wOGE3LjYzNSw3LjYzNSwwLDAsMS02LjktMy4wNTMsMi4xNjksMi4xNjksMCwxLDAtMy41LDIuNTY3LDExLjk4MSwxMS45ODEsMCwwLDAsMjEuNjE4LTcuMTJ2LS4wMjJBMi4xNCwyLjE0LDAsMCwwLDIzOC44MTUsNTI0LjU1OVoiDQogICAgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0yMTUuNzE2IC01MTQuNzEpIg0KICAgICAgICBmaWxsPSIjMDBhMGRmIi8+DQoNCiAgICA8Y2lyY2xlDQogICAgICAgIGN4PSIyLjYxOSINCiAgICAgICAgY3k9IjIuNjE5Ig0KICAgICAgICByPSIyLjYxOSINCiAgICAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCA5Ljg0Mykgcm90YXRlKC05LjIxNykiDQogICAgICAgIGZpbGw9IiMwMGEwZGYiLz4NCjwvc3ZnPg==",
+        "backgroundColor": "#53afff26"
+    },
+    "category": "tools-utilities",
+    "features": [
+        "effects",
+        "ui-extensions"
+    ],
+    "tags": [
+        "govee",
+        "lights"
+    ],
+    "repo": "https://github.com/dennisrijsdijk/firebot-govee-control",
+    "support": "https://github.com/dennisrijsdijk/firebot-govee-control/issues"
+}
